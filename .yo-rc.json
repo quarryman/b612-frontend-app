@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:quarryman/b612-frontend-app.git",
+    "project_destination_path": "b612-frontend-app",
+    "application_name": "b612FrontEnd",
+    "project_technology": "frontend-deployment",
+    "api_url": "https://fake-api.fake"
+  }
+}
